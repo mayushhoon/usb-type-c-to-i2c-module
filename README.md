@@ -41,5 +41,3 @@ This board was intentionally designed to be hand-solderable despite its small si
 ## Author
 **Designed by MAYUSH RAHANGDALE**
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
