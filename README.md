@@ -1,11 +1,14 @@
 # USB Type-C to I2C Bridge Module using FT201X IC
 
-![Board Render](Docs/USB_TO_I2C_front.png) 
-
 ## Overview
 A highly compact, production-ready USB Type-C to I2C hardware bridge. This module is designed to interface high-speed USB data from a host PC directly with external I2C peripherals, displays, and sensors. 
 
 Engineered with a strict focus on Design for Manufacturability (DFM) and Design for Assembly (DFA), the board packs power regulation, signal filtering, and data conversion into a 31x17mm footprint using high-density 0603 surface-mount components.
+
+| Front Side | Back Side |
+| :---: | :---: |
+| ![Alt Text 1](Docs/USB_TO_I2C_front.png) | ![Alt Text 2](Docs/USB_TO_I2C_back.png) |
+
 
 ## Hardware Architecture
 * **Core Bridge IC:** FTDI FT201X (Full-Speed USB to I2C Bridge).
